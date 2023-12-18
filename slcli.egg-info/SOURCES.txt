@@ -1,8 +1,0 @@
-README.md
-setup.py
-slcli/main.py
-slcli.egg-info/PKG-INFO
-slcli.egg-info/SOURCES.txt
-slcli.egg-info/dependency_links.txt
-slcli.egg-info/entry_points.txt
-slcli.egg-info/top_level.txt
