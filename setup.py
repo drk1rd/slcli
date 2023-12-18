@@ -1,12 +1,12 @@
-from setuptools import setup
+import setuptools
 
-setup(
-    name='slcli',
-    version='0.0.1',
-    packages=['slcli'],
-    entry_points={
-        'console_scripts': [
-            'slcli = slcli.main:main',
-        ],
-    },
+setuptools.setup(
+    name="slcli",
+    version="0.0.1",
+    description="A simple CLI for SimpleLogin",
+    author="drk1rd",
+    url="https://github.com/drk1rd/slcli",
+    packages=["slcli"],
+    scripts=["bin/slcli"],
+    install_requires=["simplelogin"],
 )
