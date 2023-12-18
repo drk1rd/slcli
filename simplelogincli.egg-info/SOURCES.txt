@@ -1,0 +1,7 @@
+README.md
+setup.py
+simplelogincli/main.py
+simplelogincli.egg-info/PKG-INFO
+simplelogincli.egg-info/SOURCES.txt
+simplelogincli.egg-info/dependency_links.txt
+simplelogincli.egg-info/top_level.txt
